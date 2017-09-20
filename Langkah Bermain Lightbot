@@ -1,0 +1,257 @@
+PROGRAM LAGU ANAK AYAM PASCAL
+Di kerjakan Oleh :
+Nama  	   : Imam Yudono
+Fakultas   : Fakultas Teknologi dan Informasi
+Prodi 	   : Teknik Informatika
+
+Persiapan sebelum meainkan games Lightbot
+1.Siapkan Smartphone/HP Android
+2.Download dan Install aplikasi "LightBot" di PlayStore
+3.Lalu mainkan
+
+1.Basic
+	1-1	:
+		1.Maju 1 Petak
+		2.Maju 1 Petak
+		3.Nyalakan lampu
+	1-2	:
+		1.Maju 1 Petak
+		2.Maju 1 Petak
+		3.Belok Kanan
+		4.Maju 1 Petak
+		5.Maju 1 Petak
+		6.Belok Kanan
+		7.Maju 1 Petak
+		8.Maju 1 Petak
+		9.Nyalakan lampu
+	1-3	:
+		1.Lompat
+		2.Belok Kanan
+		3.Lompat
+		4.Belok Kanan
+		5.Lompat
+		6.Nyalakan Lampu
+	1-4 :
+		1.Belok	Kiri
+		2.Lompat
+		3.Lompat
+		4.Lompat
+		5.Belok Kanan
+		6.Maju 1 Petak
+		7.Maju 1 Petak
+		8.Nyalakan Lampu
+	1-5	:
+		1.Nyalakan lampu
+		2.Lompat
+		3.Maju 1 Petak
+		4.Maju 1 Petak\
+		5.Belok Kiri
+		6.Maju 1 Petak
+		7.Nyalakan Lampu
+		8.Lompat
+		9.Belok Kiri
+		10.Maju 1 Petak
+		11.Maju 1 Petak
+		12.Nyalakan Lampu
+	1-6	:
+		1.Lompat
+		2.Belok Kiri
+		3.Maju 1 Petak
+		4.Lompat
+		5.Nyalakan Lampu
+		6.Belok Kiri
+		7.Maju 1 Petak
+		8.Maju 1 Petak
+		9.Belok Kanan
+		10.Lompat
+		11.Maju 1 Petak
+		12.Nyalakan Lampu
+	1-7	:
+		1.Maju 1 Petak
+		2.Belok	Kiri
+		3.Lompat
+		4.Nyalakan Lampu
+		5.Lompat
+		6.Nyalakan Lampu
+		7.Belok	Kiri
+		8.Lompat
+		9.Nyalakan Lampu
+		10.Belok Kiri
+		11.Lompat
+		12.Nyalakan Lampu
+	1-8	:
+		1.Lompat
+		2.Lompat
+		3.Belok Kanan
+		4.Maju 1 Petak
+		5.Belok Kiri
+		6.Lompat
+		7.Nyalakan Lampu
+		8.Belok Kiri
+		9.Maju 1 Petak
+		10.Nyalakan Lampu
+		11.Lompat
+		12.Nyalakan Lampu
+		
+2.Procedures
+	2-1	:
+		1.P1
+		2.P1
+		3.P1
+			Proses P1 : 1.Maju 1 Petak
+						2.Maju 1 Petak
+						3.Maju 1 Petak
+						4.Nyalakan	Lampu
+						5.Belok Kanan
+	2-2	:
+		1.P1
+		2.Maju 1 Petak
+		3.Belok	Kanan
+		4.P1
+		5.Maju 1 Petak
+		6.Nyalakan Lampu
+			Proses P1	:	1.Maju 1 Petak
+							2.Belok Kiri
+							3.Maju 1 Petak
+							4.Belok Kanan
+							5.Maju 1 Petak
+							6.Belok Kiri
+	2-3	:
+		1.P1
+		2.Belok	Kiri
+		3.Lompat
+		4.Belok Kiri
+		5.P1
+		6.Belok Kanan
+		7.Lompat
+		8.Belok Kanan
+		9.P1
+			Proses	P1	:	1.Maju 1 Petak
+							2.Maju 1 Petak
+							3.Maju 1 Petak
+							4.Nyalakan	Lampu
+	2-4	:
+		1.P1
+		2.P2
+		3.P1
+		4.Belok Kiri
+		5.Maju 1 Petak
+		6.Maju 1 Petak
+		7.Belok	Kiri
+		8.P1
+			Proses	P1	:	1.Maju 1 Petak
+							2.Nyalakan Lampu
+							3.Maju 1 Petak
+							4.Nyalakan	Lampu
+							5.Maju 1 Petak
+							6.Nyalakan Lampu
+							7.Maju 1 Petak
+							8.Nyalakan	Lampu
+			Proses	P2	:	1.Belok	Kanan
+							2.Maju 1 Petak
+							3.Maju 1 Petak
+							4.Belok Kanan
+	2-5	:
+		1.P1
+		2.P2
+		3.Belok Kanan
+		4.P1
+		5.P2
+		6.Belok Kanan
+		7.P1
+			Proses	P1	:	1.Nyalakan Lampu
+							2.Lompat
+							3.Nyalakan Lampu
+							4.Lompat
+							5.Nyalakan Lampu
+							6.Lompat
+							7.Nyalakan Lampu
+							8.Lompat
+					P2	:`	1.Belok	Kiri
+							2.Maju 1 Petak
+							3.Belok	Kiri
+							4.Maju	1 Petak
+							5.Maju	1 Petak
+							6.Maju	1 Petak
+							7.Belok Kanan
+							8.Maju	1 Petak
+	2-6	:
+		1.P1
+		2.Belok	Kanan
+		3.Lompat
+		4.Lompat
+		5.Belok	Kanan
+		6.P1
+					P1	:	1.P2
+							2.P2
+							3.Belok Kiri
+							4.Maju	1 Petak
+							5.Belok	Kanan
+							6.P2
+							7.P2
+					P2	:	1.Nyalakan Lampu
+							2.Maju	1 Petak
+							3.Nyalakan Lampu
+							4.Lompat
+							5.Lompat
+3.Loops
+	3-1	:
+		1.P1
+				Proc1	:	1.Maju	1 Petak
+							2.Nyalakan Lampu
+							3.P1
+	3-2	:
+		1.P1
+				Proc1	:	1.Lompat
+							2.Nyalakan	lampu
+							3.P1
+	3-3	:
+		1.P1
+				Proc1	:	1.Maju	1 Petak
+							2.Nyalakan Lampu
+							3.Belok	Kiri
+							4.Maju	1 Petak
+							5.Lompat
+							6.Nyalakan	Lampu
+							7.Lompat
+							8.P1
+	3-4	:
+		1.P1
+				Proc1	:	1.Nyalakan Lampu
+							2.Maju	1 Petak
+							3.Belok	Kiri
+							4.Maju	1 Petak
+							5.Nyalakan Lampu
+							6.Belok	Kanan
+							7.Maju	1 Petak
+							8.P1
+	3-5	:
+		1.P1
+				Proc1	:	1.Nyalakan Lampu
+							2.Lompat
+							3.Nyalakan Lampu
+							4.Maju	1 Petak
+							5.Nyalakan	Lampu
+							6.Maju	1 Petak
+							7.Nyalakan Lampu
+							8.P2
+				Proc2	:	1.Lompat
+							2.Belok	Kiri
+							3.P1
+	3-6	:
+		1.P1
+				Proc1	:	1.Nyalakan Lampu
+							2.Lompat
+							3.Belok Kiri
+							4.Maju	1 Petak
+							5.Nyalakan Lampu
+							6.Belok	Kanan
+							7.Lompat
+							8.P2
+				Proc2	:	1.Belok	Kanan
+							2.Maju	1 Petak
+							3.Belok	Kiri
+							4.Lompat
+							5.Lompat
+							6.Belok Kiri
+							7.P1
