@@ -1,3 +1,11 @@
+PROGRAM LAGU ANAK AYAM PASCAL
+Di kerjakan Oleh :
+Nama  	   : Imam Yudono
+Fakultas   : Fakultas Teknologi dan Informasi
+Prodi 	   : Teknik Informatika
+
+
+
 program Anak_Ayam;
 var
     a:Integer;
